@@ -1,4 +1,4 @@
-# Simple Multi-Step Agent
+# A Simple Multi-Step Agent
 """
 This script will define an agent that:
 
