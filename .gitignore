@@ -1,0 +1,26 @@
+# Byte-compiled Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environment directory
+venv/
+
+# Python-specific files for package building
+.env
+.DS_Store
+
+# Logs and runtime data
+*.log
+*.sqlite
+/data/
+/logs/
+
+# Development environment files
+.vscode/
+
+# Streamlit-specific files and folders
+.streamlit/
+/static/
+
+# Ollama-specific files (model weights, etc.)
+/models/
